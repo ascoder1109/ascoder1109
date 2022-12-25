@@ -3,4 +3,4 @@ Hello Everyone, I am Aditya Singh, a student of Siliguri Institute of Technology
 
 Skills: C, JAVA, Python.
 <br>
-Learning: DSA, Android Development.
+Learning: DSA, App Development (React Native), Web Development.
